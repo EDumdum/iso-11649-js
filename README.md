@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/EDumdum/iso-11649-js.svg?branch=master)](https://travis-ci.org/EDumdum/iso-11649-js)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Edumdum/iban-js/master/LICENSE)
 
-# fast-iban
+# iso-11649
 
 [European Structured Communication](https://en.wikipedia.org/wiki/Creditor_Reference) validation and conversion following [ISO 11649](https://wiki.xmldation.com/General_Information/ISO11649_-_Creditor_Reference).
 
