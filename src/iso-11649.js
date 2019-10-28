@@ -18,7 +18,7 @@ var iso11649 = {
      * 
      * @param {*} rawValue 
      */
-    generate(rawValue) {
+    generate: function(rawValue) {
         const value = stringifyInput(rawValue);
 
         if (!value.match(FORMAT_RF_BODY)) {
@@ -39,7 +39,7 @@ var iso11649 = {
      * 
      * @param {*} rawValue 
      */
-    validate(rawValue) {
+    validate: function(rawValue) {
         const value = stringifyInput(rawValue);
 
         if (!value.match(FORMAT_RF)) {
