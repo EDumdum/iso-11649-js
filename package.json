@@ -1,6 +1,6 @@
 {
   "name": "iso-11649",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creditor Reference validation and conversion following ISO 11649",
   "main": "./src/iso-11649.js",
   "types": "./src/iso-11649.d.ts",
